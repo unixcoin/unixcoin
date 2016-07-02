@@ -1,0 +1,9 @@
+Building Unixcoin
+
+See doc/readme-qt.rst for instructions on building Unixcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Unixcoin.
+
+See doc/build-*.txt for instructions on building unixcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Unixcoin.
